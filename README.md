@@ -4,7 +4,7 @@ This document describes how the Property Manager can have the access to create
 and modify the Amenity Reservations with our **My 350 portal**.
 
 > My 350 is a collaborative community portal which is manages by _Rise Buildings_. My
-350 provides a features and environment with a variety of amenities and services.
+**350** provides a features and environment with a variety of amenities and services.
 Our innovative porat and app allows you to have convenient access to 350's in
 demand amenities and world-class services at your fingertips.
 Features include:
