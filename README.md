@@ -33,7 +33,7 @@ residence. Reservation section has below subsection:
 ## Amenities
 
 Amenities is the section where **Property Manager** has capability to _add amenities, create
-amenities, and delete amenities_. [Property Manager](www.investopedia.com/terms/p/property-manager.asp) can also book the amenities on belh of
+amenities, and delete amenities_. [Property Manager](https://www.bing.com/search?q=property+manager&form=ANNTH1&refig=3abda6fc50e74cf2a309d2e25bd16e63) can also book the amenities on belh of
 the residence of the building community.
 
 1. Login with Property Manager credential.
