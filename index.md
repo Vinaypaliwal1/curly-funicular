@@ -47,4 +47,4 @@ the residence of the building community.
 2. Click on the Reservation section on the left side of the screen. There subsection of the
 Reservation section displays.
 
-Refer Figure ![Provided Amenities](https://thumbs.dreamstime.com/z/hotel-service-web-banner-amenities-guests-resort-reservation-apartament-infographics-linear-icons-white-background-186612155.jpg)
+![Reservation Option](https://disneycruiselineblog.com/wp-content/uploads/2019/11/DCL-Onboard-Gifts-Find-Reservation-Number.png)
