@@ -7,6 +7,10 @@ layout: demo_template
 
 It is written in {{page.year}} by {{site.author}}.
 
+{% for item in site.data.chronology %}
+- {{ item.name }}, {{ item.year }}
+{% endfor %}
+
 This document describes how the Property Manager can have the access to create
 and modify the Amenity Reservations with our **My 350 portal**.
 
