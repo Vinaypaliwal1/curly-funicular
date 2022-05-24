@@ -8,7 +8,7 @@ layout: demo_template
 It is written in {{page.year}} by {{site.author}}.
 
 {% for item in site.data.chronology %}
-- {{ item.name }}, {{ item.year }}
+- {{ item.release }}, {{ item.description }}, {{ item.date }}
 {% endfor %}
 
 This document describes how the Property Manager can have the access to create

@@ -1,4 +1,3 @@
-year,name,place
-1975,Aryabhat,Kapustin Yar
-1979,Bhaskara,Kapustin Yar
-1980,Rohini,Sriharikota
+release,description,date
+1st,added reservation option,20/05/2022
+2nd,remove technical jargons,21/05/2022
