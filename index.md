@@ -5,7 +5,7 @@ layout: demo_template
 
 # Introduction
 
-It is written in {{page.year}} by Vinay Paliwal.
+It is written in {{page.year}} by {{site.author}}.
 
 This document describes how the Property Manager can have the access to create
 and modify the Amenity Reservations with our **My 350 portal**.
