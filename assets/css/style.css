@@ -1,5 +1,7 @@
 body {
     line-height: 150%;
     font-family: Vardana;
-    Color: green;
+}
+p {
+  color: green;
 }
